@@ -1,0 +1,23 @@
+{
+  "name": "socket-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BukhariMuslim/socket-queue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BukhariMuslim/socket-queue/issues"
+  },
+  "homepage": "https://github.com/BukhariMuslim/socket-queue#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
